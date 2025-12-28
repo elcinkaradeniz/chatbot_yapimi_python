@@ -54,3 +54,5 @@ Bot: Bunu bilmiyorum. Öğretir misiniz?
 ![Uploading Ekran Görüntüsü (19).png…]()
 
 
+
+
