@@ -51,5 +51,4 @@ Bot: Bunu bilmiyorum. Öğretir misiniz?
 
 
 projeyi çalıştırdığımda oluşan görüntü:
-https://github.com/elcinkaradeniz/chatbot_yapimi_python/blob/e14b6b950a9736e1f050c4987b944b9d203f22e4/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(19).png
-
+Ekran Görüntüsü (19).png
