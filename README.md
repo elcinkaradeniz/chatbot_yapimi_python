@@ -50,3 +50,7 @@ Siz: python nedir
 Bot: Bunu bilmiyorum. Öğretir misiniz?
 
 
+örnek resim :
+![Uploading Ekran Görüntüsü (19).png…]()
+
+
