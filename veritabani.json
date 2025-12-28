@@ -1,0 +1,44 @@
+{
+  "sorular": [
+    {
+      "soru": "Türkiye'nin  kaç bölgesi var ? ",
+      "cevap": 7
+    },
+    {
+      "soru": "Türkiye'nin  Başkenti neresidir? ",
+      "cevap": "Ankara"
+    },
+    {
+      "soru": "Merhaba",
+      "cevap": "Sanada selamlar"
+    },
+    {
+      "soru": "Merhaba Nasılsın ",
+      "cevap": "iyiyim sen "
+    },
+    {
+      "soru": "Benim Adım ne?",
+      "cevap": "Elçin"
+    },
+    {
+      "soru": "Kaç yaşındasın",
+      "cevap": "24"
+    },
+    {
+      "soru": "Bu chatbot hangi  dil ile yazılmış",
+      "cevap": "Python"
+    },
+    {
+      "soru": "Türkiye'nin En güzel şehri?",
+      "cevap": "İstanbul"
+    },
+    {
+      "soru": "clear",
+      "cevap": "& C:/Users/karad/AppData/Local/Programs/Python/Python310/python.exe c:/Users/karad/Desktop/akilli_chatbot/app.py"
+    },
+    {
+      "soru": "en sevdiğim meyve",
+      "cevap": "elma"
+    }
+  ]
+}
